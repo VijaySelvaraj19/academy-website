@@ -1,6 +1,6 @@
 # AcademySite - Educational Website
 
-Link here:(https://vijayselvaraj19.github.io/academy-website/index.html)
+Link here:(https://vijayselvaraj19.github.io/project-3-academy-website/index.html)
 
 ## Overview
 
